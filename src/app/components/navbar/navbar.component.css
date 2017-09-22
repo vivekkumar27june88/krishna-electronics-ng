@@ -1,0 +1,11 @@
+.navbar-brand img {
+    vertical-align: bottom;
+}
+
+.navbar-brand span {
+    padding-top: 10px;
+    margin: 0px 0px 0px 15px;
+    font-size: 1.2em;
+    font-weight: bold;
+    text-transform: uppercase;
+}
